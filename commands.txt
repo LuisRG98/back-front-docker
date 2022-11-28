@@ -1,4 +1,11 @@
 ejeccutar el backend en primera instancia
+
+LOS COMANDOS A USAR SON LOS SIGUIENTE:
+- docker-compose build
+- dcoker-compose up
+
+Una vez ejecutados los comando dirigirse a 127.0.0.1
+
 participantes:
 Rivas Giwencer Luis Ricardo
 clares Flores Henry
