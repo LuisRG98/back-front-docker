@@ -1,1 +1,5 @@
-\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\
+ejeccutar el backend en primera instancia
+participantes:
+Rivas Giwencer Luis Ricardo
+clares Flores Henry
+Jimenez Pinedo Sergio Andres
